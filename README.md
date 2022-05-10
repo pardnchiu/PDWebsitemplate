@@ -1,6 +1,6 @@
 # 網站模板 CSS
 
-- 名稱: Pardn Ltd Website Template Css 
+- 名稱: PDWebsitemplate
 - 開發: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
 - 授權: [MIT License](./LICENSE)
 
