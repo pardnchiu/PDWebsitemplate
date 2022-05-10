@@ -1,4 +1,4 @@
-# 模組網站 CSS
+# 網站模板 CSS
 
 - 名稱: PDWebsitemplate.css
 - 開發: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
