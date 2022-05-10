@@ -1,6 +1,6 @@
 # 網站模板 CSS
 
-- 名稱: PDWebsitemplate.css
+- 名稱: PDWebsitemplateCss.css
 - 開發: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
 - 授權: [MIT License](./LICENSE)
 
